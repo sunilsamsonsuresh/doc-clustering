@@ -1,0 +1,15 @@
+numpy
+pandas
+tqdm
+reportlab
+pymupdf
+torch
+torchvision
+transformers
+umap-learn
+hdbscan
+scikit-learn
+Pillow
+datasets
+sentencepiece
+protobuf

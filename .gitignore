@@ -1,0 +1,6 @@
+.doc_clustering/
+.env
+image_datasets_used/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
